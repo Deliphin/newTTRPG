@@ -9,7 +9,7 @@ There are some special circumstances for specific rolls:
   <tr>
     <td>3-4</td>
     <td>Critical Success</td>
-	<td>except</td>
+	<td>*except*</td>
 	<td>if the target is</td>
 	<td>3-4</td>
 	<td>then it's a success.</td>
@@ -17,19 +17,19 @@ There are some special circumstances for specific rolls:
   <tr>
     <td>17-18</td>
     <td>Critical Failure</td>
-	<td>except</td>
+	<td>*except*</td>
 	<td>if the target is</td>
 	<td>17-18</td>
 	<td>then it's a success.</td>
   </tr>
   <tr>
     <td>10</td>
-    <td>under target</td>
+    <td>*under target*</td>
 	<td>Critical Success</td>
   </tr>
   <tr>
     <td>10</td>
-    <td>over target</td>
+    <td>*over target*</td>
 	<td>Critical Failure</td>
   </tr>
 </table>
