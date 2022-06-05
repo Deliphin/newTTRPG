@@ -4,13 +4,13 @@ One round is how long it takes for every character to take their turn.
 One turn is 3 seconds. Some actions such as charging spells may take up multiple turns. If an action is not a single Standard Action, it will specify.
 
 ## Initiative
-Initiative determines turn order.
+Initiative determines turn order.  
 If a character wishes to move anywhere down in the initiative order, they may do so freely. If they move below a foe however, they may not move back above that foe unless that foe moves below the character.
 
 ## Action Types
 
 ### Standard Action
-All actions are Standard Actions unless specified otherwise.
+All actions are Standard Actions unless specified otherwise.\
 Examples: Swing a sword, cast a spell, pull something from a backpack, equip a gauntlet, look for a hidden foe.
 During any Standard Action except for any form of Move, as long as you're not restrained (such as by grappling or rope), you are *always* allowed to move 1 hex. This includes All-Outs other than All-Out Move.
 
@@ -18,7 +18,7 @@ During any Standard Action except for any form of Move, as long as you're not re
 Quick Actions are actions you can take in the same turn as a Standard Action. You may do one per turn. You may also trade your Standard Action for an additional two Quick Actions. These Quick Actions are still considered a single Standard Action.
 Examples: Nock an arrow, cock a gun, pull something from your bandolier, speaking with sign language.
 
-###Free Action
+### Free Action
 Free Actions are actions that cost no time, or can be done simultaneously with a Standard Action. You can only do one of each Free Action once per turn.
 Examples: Speaking verbally, telepathically speaking, triggering an implant, switching a gun’s fire mode, and more.
 
@@ -35,19 +35,19 @@ Hold your action until something happens.
 Wait is a Quick Action.
 You state what your Standard Action will be, and it will be a reaction to what someone else does. If they don’t do it, you lose your Standard action.
 
-###Perform
+### Perform
 Other actions not described elsewhere.
 Examples: Unsheathing a sword, reloading a gun, flipping a table, climbing a rope, setting a fire, using a computer.
 
-###Move
+### Move
 Move up to Move ×1, and/or change Stance.
 You must move from Prone to Kneeling before moving to Standing, but you can drop from Standing to Prone immediately.
 
-###Concentrate
+### Concentrate
 Concentrate on a mental task. If your concentration is interrupted (You make a defense, are injured or are otherwise distracted) roll INT-3 to maintain your concentration.
 What you roll against depends on what you’re concentrating on. Magery spells roll against INT.
 
-###Aim
+### Aim
 Line up your shot at your target.
 Ranged weapons only. Aim is a Concentrate, and its interruption rules apply.
 Add the Accuracy bonus from your weapon to your next attack. If you do not attack the turn after, you lose the bonus.
